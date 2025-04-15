@@ -25,5 +25,3 @@ M8001341528 - 20 item BOM with 4 rules
 M8001341529 - 20 item BOM with 4 rules
 8000898181 - around 20 items, 4 rules
 8000898184 - around 20 items, 4 rules
-
-estou tentando
