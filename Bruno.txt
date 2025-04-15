@@ -1,0 +1,10 @@
+Bruno:
+M8001339628 - model with a large 67 item BOM - with 1 MFG rule and 2 DSN rules
+11 peças/itens prontas
+
+M8001339629 - model with a large 67 item BOM - with 1 MFG rule and 2 DSN rules
+M8001341527 - 20 item BOM with 4 rules
+M8001341528 - 20 item BOM with 4 rules
+M8001341529 - 20 item BOM with 4 rules
+8000898181 - around 20 items, 4 rules
+8000898184 - around 20 items, 4 rules
