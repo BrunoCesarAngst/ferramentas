@@ -1,0 +1,27 @@
+Bruno:
+M8001339628 - model with a large 67 item BOM - with 1 MFG rule and 2 DSN rules
+item 47 - M8001337146 erro na descrição
+item 67 - M8000753775 erro na descrição
+
+lista peças que são criadas pela variável presentes no BOM, a partir do DS R100004458 regra 1.2 que não constam na estrutura do modelo 8001339628 que dá base ao modelo M8001339628:
+8000863554
+8000863555
+8000863556
+8000863557
+8000863558
+8000926228
+8000926229
+8000926230
+8000926231
+8000926232
+
+falta a peça 8000864526 no modelo
+
+item 61 M8000743783 a revision é F
+
+M8001339629 - model with a large 67 item BOM - with 1 MFG rule and 2 DSN rules
+M8001341527 - 20 item BOM with 4 rules
+M8001341528 - 20 item BOM with 4 rules
+M8001341529 - 20 item BOM with 4 rules
+8000898181 - around 20 items, 4 rules
+8000898184 - around 20 items, 4 rules
