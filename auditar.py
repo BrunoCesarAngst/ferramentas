@@ -6,9 +6,9 @@ import pandas as pd
 import fitz
 
 # caminhos
-xml_file = r'C:\TKE\meutester\8000849648.pmx'
-pdf_file = r"C:\TKE\meutester\Markup D8000849648-E.02.pdf"
-csv_wc = r"C:\TKE\meutester\8000849648_BOX_SF_BACK_ASSY_LH_FULL_COP_F6_Design.xlsx"
+xml_file = r'C:\TKE\meutester\M8001339629.pmx'
+pdf_file = r"C:\TKE\meutester\M8001339629_SLDDRW.pdf"
+csv_wc = r"C:\TKE\meutester\8001339629_PLTFM_ASSY_RH_PLAN_I_076_C7_PlantUSA.xlsx"
 saida_xlsx = r"C:\TKE\meutester\comparativo_bom_vs_modelo.xlsx"
 
 # --- 1) parse xml e gera CSV ordenado ---
